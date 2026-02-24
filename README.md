@@ -29,6 +29,8 @@ ChatBot_Assistant/
 
 └── README.md # Project documentation
 
+---
+
 ## 🛠️ Installation and Setup
 ### 1. Clone the repository
 ```bash
@@ -38,11 +40,11 @@ cd ChatBot_Assistant
 
 ▶️ Usage
 
-  Use your microphone to ask questions or issue commands.
+  >Use your microphone to ask questions or issue commands.
 
-  You can also type input through the web interface.
+  >You can also type input through the web interface.
 
-  The assistant will process your input and respond with generated answers.
+  >The assistant will process your input and respond with generated answers.
 
 📜 License
 
@@ -53,8 +55,8 @@ cd ChatBot_Assistant
 
 🙏 Acknowledgements
 
-  SpeechRecognition
+  >SpeechRecognition
 
-  pyttsx3
+  >pyttsx3
 
-  Eel
+  >Eel
